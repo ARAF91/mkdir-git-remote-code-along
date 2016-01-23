@@ -1,2 +1,1 @@
-# mkdir-git-remote-code-along
-Git Hub is great so great 
+Ruby is a great language 
